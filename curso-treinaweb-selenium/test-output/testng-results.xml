@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4732" started-at="2020-08-19T01:19:54Z" finished-at="2020-08-19T01:19:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4732" started-at="2020-08-19T01:19:54Z" finished-at="2020-08-19T01:19:58Z">
+      <class name="br.com.treinaweb.selenium.tests.CadastroUsuarioTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:br.com.treinaweb.selenium.tests.CadastroUsuarioTest@6a41eaa2]" name="setup" is-config="true" duration-ms="3264" started-at="2020-08-18T22:19:54Z" finished-at="2020-08-18T22:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupPage()[pri:0, instance:br.com.treinaweb.selenium.tests.CadastroUsuarioTest@6a41eaa2]" name="setupPage" is-config="true" duration-ms="461" started-at="2020-08-18T22:19:57Z" finished-at="2020-08-18T22:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method status="PASS" signature="verificarEmailsDiferentesTest()[pri:2, instance:br.com.treinaweb.selenium.tests.CadastroUsuarioTest@6a41eaa2]" name="verificarEmailsDiferentesTest" duration-ms="409" started-at="2020-08-18T22:19:58Z" finished-at="2020-08-18T22:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarEmailsDiferentesTest -->
+        <test-method status="PASS" signature="afterTests()[pri:0, instance:br.com.treinaweb.selenium.tests.CadastroUsuarioTest@6a41eaa2]" name="afterTests" is-config="true" duration-ms="586" started-at="2020-08-18T22:19:58Z" finished-at="2020-08-18T22:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTests -->
+      </class> <!-- br.com.treinaweb.selenium.tests.CadastroUsuarioTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
